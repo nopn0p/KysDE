@@ -1,0 +1,8 @@
+TODO LIST / INTERESTING THINGS
+==============================
+LIB-PATH-FUNCTION-POTENTIAL VULN
+-----------------------------------
+KIO/src/ioslaves/file/file.cpp-FileProtocol()-Possible race condition
+kdelibs/kdecore/util/kmacroexpander_unix.cpp
+kdelibs/kdecore/util/kmacroexpander.cpp
+kdelubs/kdecore/util/kmacroexpander.h
